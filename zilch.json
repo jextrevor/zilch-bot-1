@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Zilch Bot 1",
+  "avatar": "uRH22iqsb4yysibaa",
+  "preferredColor": "turquoise",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
